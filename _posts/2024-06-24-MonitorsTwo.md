@@ -76,7 +76,7 @@ And we got a full interactive shell
 
 On target system we can see we are www-datals, the kernel version is 5.4.0-147-generid and the groups we belongs to 
 
-![[Pasted image 20240622210307.png]]
+![](/assets/img/HTB/MonitorsTwo/Pasted image 20240622210307.png)
 
 In the root directory we have a *.dockerenv* file, so we are in a docker container. Also we have a script called *entrypoint.sh*
 
